@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Blindado">
+  <rect width="512" height="512" rx="112" fill="#070B14"/>
+  <path d="M256 84 L392 132 V248 C392 336 334 398 256 432 C178 398 120 336 120 248 V132 Z" fill="none" stroke="#22D3EE" stroke-width="24" stroke-linejoin="round"/>
+  <path d="M190 258 L238 306 L326 210" fill="none" stroke="#FACC15" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
